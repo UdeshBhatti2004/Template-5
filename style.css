@@ -905,13 +905,13 @@
 .company-div h1{
     color: orange;
     margin-left: 2vw;
-    margin-top: 5.5vw;
+    margin-top: 6.5vw;
     font-size: 2vw
  }
 
  .name-div h1{
     margin-left: 1vw;
-    margin-top: 5vw;
+    margin-top: 6.5vw;
     font-size: 2vw;
 } 
 
@@ -920,7 +920,7 @@
     height: 3vw;
     width: 3vw;
     border: 0.2vw solid #5b9a9dd2;
-    margin-top: 5vw;
+    margin-top: 6vw;
     margin-left: 3vw;
 }
 
